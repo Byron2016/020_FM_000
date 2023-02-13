@@ -55,9 +55,16 @@
   - [The Frontend Mentor project](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
 
 - Utilities
+
   - [SVGSprites](https://svgsprit.es/)
   - [Tools to convert to .ico](https://linuxhint.com/add-favicon-in-html/#:~:text=To%20add%20a%20favicon%20in,icon%E2%80%9D%20href%3D%E2%80%9Dfavicon.)
+
     - [ICO converter](https://www.icoconverter.com/)
+
+  - Resets
+    - [Andy Bell's reset](https://andy-bell.co.uk/a-modern-css-reset/)
+      - [Github code](https://andy-bell.co.uk/a-modern-css-reset/)
+    - [Josh Comeau's reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 
 ## Steps
 
@@ -141,4 +148,3 @@
    ```bash
    npx surge --domain fm020.surge.sh
    ```
-   
