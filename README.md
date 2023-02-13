@@ -62,9 +62,14 @@
     - [ICO converter](https://www.icoconverter.com/)
 
   - Resets
+
     - [Andy Bell's reset](https://andy-bell.co.uk/a-modern-css-reset/)
       - [Github code](https://andy-bell.co.uk/a-modern-css-reset/)
     - [Josh Comeau's reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+
+  - Color Picker
+    - [Color Picker utility](https://learn.microsoft.com/en-us/windows/powertoys/color-picker)
+      - [Microsoft Power​Toys](https://www.bing.com/search?q=power+toys&form=WNSGPH&qs=AS&cvid=e4450d0a3d2f4bbdbec1eddb7fede6b7&pq=Power+Toys&cc=EC&setlang=es-MX&nclid=4462347B20BA058FB57CAC25A0FFA688&ts=1676311286110&wsso=Moderate)
 
 ## Steps
 
