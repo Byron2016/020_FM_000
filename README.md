@@ -73,7 +73,15 @@
       - [Microsoft Power​Toys](https://www.bing.com/search?q=power+toys&form=WNSGPH&qs=AS&cvid=e4450d0a3d2f4bbdbec1eddb7fede6b7&pq=Power+Toys&cc=EC&setlang=es-MX&nclid=4462347B20BA058FB57CAC25A0FFA688&ts=1676311286110&wsso=Moderate)
 
   - Screen reader users
+
     - [Multiple Navigation Landmarks](https://www.aditus.io/patterns/multiple-navigation-landmarks/)
+
+  - Use of EM for Media Queries
+
+    - [PX, EM or REM Media Queries?](https://zellwk.com/blog/media-query-units/)
+
+  - Colors
+    - [6 Tips to Choose a Stunning Website Color Scheme](<https://www.wordstream.com/blog/ws/2019/10/03/website-color-scheme#:~:text=Primary%20colors%20are%20colors%20that,green%20(a%20secondary%20color).>)
 
 ## Steps
 
