@@ -5,6 +5,7 @@ export default {
   root: path.resolve(__dirname, "src"),
   build: {
     outDir: path.resolve(__dirname, "dist"),
+    minify: false,
     rollupOptions: {
       input: {
         index: path.resolve(__dirname, "src/index.html"),

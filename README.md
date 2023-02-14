@@ -71,6 +71,7 @@
 
     - [Color Picker utility](https://learn.microsoft.com/en-us/windows/powertoys/color-picker)
       - [Microsoft Power​Toys](https://www.bing.com/search?q=power+toys&form=WNSGPH&qs=AS&cvid=e4450d0a3d2f4bbdbec1eddb7fede6b7&pq=Power+Toys&cc=EC&setlang=es-MX&nclid=4462347B20BA058FB57CAC25A0FFA688&ts=1676311286110&wsso=Moderate)
+        - [PowerToys learn](https://learn.microsoft.com/es-es/windows/powertoys/keyboard-manager)
 
   - Screen reader users
 
@@ -81,7 +82,12 @@
     - [PX, EM or REM Media Queries?](https://zellwk.com/blog/media-query-units/)
 
   - Colors
+
     - [6 Tips to Choose a Stunning Website Color Scheme](<https://www.wordstream.com/blog/ws/2019/10/03/website-color-scheme#:~:text=Primary%20colors%20are%20colors%20that,green%20(a%20secondary%20color).>)
+
+  - Visually hidden
+    - [visually-hidden CSS](https://a11y-guidelines.orange.com/en/articles/accessible-hiding/)
+    - [Inclusively Hidden](https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html)
 
 ## Steps
 
