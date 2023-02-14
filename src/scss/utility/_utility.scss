@@ -30,9 +30,9 @@ alternative
 }
 */
 
-:where(.flow :not(:first-child)) {
-  margin-top: var(--flow-spacer, 3em);
-}
+// :where(.flow :not(:first-child)) {
+//   margin-top: var(--flow-spacer, 3em);
+// }
 
 .paragraph-centered {
   text-align: justify;
@@ -48,6 +48,24 @@ alternative
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
   }
+}
+
+.vertical-align-center {
+  align-items: center;
+}
+
+.justify-self-end {
+  justify-self: end;
+}
+
+@media (min-width: 50em) {
+  .justify-self-end-md {
+    justify-self: end;
+  }
+}
+
+:where(.flow :not(:first-child)) {
+  margin-top: var(--flow-spacer, 3em);
 }
 
 /* text color */
